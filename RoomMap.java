@@ -1,3 +1,9 @@
+/**
+ * This is my version of a navigable map of rooms. If you read it, you can see how easy it would be
+ * to add code (to this class) to create any kind of map of rooms you like.
+ *
+ * @author Mario Gianota <mariogianota@protonmail.com>
+ */
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
