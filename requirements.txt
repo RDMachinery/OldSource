@@ -1,0 +1,6 @@
+A program that will read in a file, parse the individual
+words out of the text and output the nouns and verbs contained in the text.
+The decision on whether a particular word is a noun, or a verb is made
+by printing out the word, and then asking the user if the word is a noun,
+or a verb. The system stores the user's answer. When the program has iterated
+through all of the words, it outputs a list of nouns and verbs in the text.
